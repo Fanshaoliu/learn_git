@@ -9,3 +9,4 @@ Now, the game is begining! You get the first Hero Yu Liu. He is a soldier with a
 3. Yu Liu arrives GuanYinSi Town, he meets the King of B city and saves the record
 4. Yu Liu arrives XiaoZhuang country, he pay 8g and sleeps in the hotel. Now, Yu Liu is alive and full HP!
 5. Yu Liu meets a Big Crow, Yu Liu utilizes magic JiLa and beats the Big Crow.
+6. Yu Liu is dead.
